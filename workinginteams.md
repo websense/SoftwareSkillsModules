@@ -1,16 +1,9 @@
 # Working in Software Teams
 
-#### Module overview:
+## Module Overview:
 Good teamwork is the most important skill you will need for success in a software group project unit.  
 Everyone needs to learn how to work well in a team.  
 Making sure you take the time to do this at the start of your project will pay off throughout the project.
-
-## Goals
-#### Module Goals:
-1. Introduce models of teams dynamics
-2. Awareness of common problems in teams
-3. Students do team orientation exercises
-4. Personal SWOT analysis for the software teams project
 
 #### Related Unit/Course Learning Outcomes:
 O6. perform effectively as part of a multidisciplinary and multicultural team
@@ -28,16 +21,14 @@ Reading: teamwork for software engineering
 
 #### Class Activity
 
-1. **Ice breaker:**  Identify a partner from your project groups.
+**Ice breaker:**  Identify a partner from your project groups.
 In pairs, introduce yourself to your partner (3 minutes each).
 Next, in your project groups, each person introduces their partner to the rest of the team.
 
-3. **Personal SWOT analysis:** 
+**Personal SWOT analysis:** 
 Identify strengths, weaknesses, opportunities and threats for yourself coming in to this project unit. 
-Remember the left hand side of the SWOT!  
+Remember the left hand side of the SWOT!  Consider the comments from other students presented in the 
 You each bring valuable expertise from your previous degrees, work and other experiences. (15 minutes)
-
-
 
 #### Module Assignment
 Teamwork is assessed through the Personal Reflections in each of the three deliverables for this unit.
