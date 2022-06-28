@@ -6,7 +6,7 @@ Everyone needs to learn how to work well in a team.
 Making sure you take the time to do this at the start of your project will pay off throughout the project.
 
 ### Related Unit/Course Learning Outcomes:
-O6. perform effectively as part of a multidisciplinary and multicultural team
+O5. perform effectively as part of a multidisciplinary and multicultural team
 
 ### Materials
 Team Dynamics Guest lecture by Prof Sally Male (see LMS Lecture Recordings)
