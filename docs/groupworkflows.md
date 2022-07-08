@@ -9,7 +9,11 @@ O1. apply knowledge and skills of information technology in project situations;
 O5. perform effectively as part of a multidisciplinary and multicultural team.
 
 ### Materials
-TBA
+
+[Patterns for Managing Source Code Branches](https://www.martinfowler.com/articles/branching-patterns.html) Martin Fowler
+
+[Software Delivery Guide](https://www.martinfowler.com/delivery.html) Martin Fowler
+
 
 ### Class Agenda
 1. Github workflows for groups: what can go wrong and how to get it right
