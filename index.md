@@ -1,7 +1,7 @@
 # SoftwareSkillsModules
 Professional skills workshop modules for software students 
 
-- [Working in Teams](https://websense.github.io/SoftwareSkillsModules/workinginteams.md)
+- [Working in Teams](workinginteams.md)
 - [Writing Professional Reflections](https://websense.github.io/SoftwareSkillsModules/professionalreflections.md)
 - [Minimum Viable Product: Making magic happen with clients](https://websense.github.io/SoftwareSkillsModules/minimumviableproduct.md)
 - [Group workflows in Github: from Development to Client](https://websense.github.io/SoftwareSkillsModules/groupworkflows.md)
