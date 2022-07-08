@@ -12,7 +12,7 @@ O4. assess the social impacts of IT projects;
 
 ### Materials
 
-- [ACS Code of Ethics](https://www.acs.org.au/governance/rules-and-regulations.html
+- [ACS Code of Ethics](https://www.acs.org.au/governance/rules-and-regulations.html)
 - [ACS Code of Ethics Case Studies](https://www.acs.org.au/content/dam/acs/elected-members/pab/EthicsCommittee/ACS%20Code%20of%20Professional%20Conduct%20Case%20Studies.pdf)
 - Computer Security Principles and Practice, William Stallings and Lawrie Brown, Chapter 1 Overview
 - [Software Engineering Body of Knowledge](https://www.computer.org/education/bodies-of-knowledge/software-engineering) (SWEBOK) Section 7-4
