@@ -2,11 +2,11 @@
 Professional skills workshop modules for software students 
 
 - [Working in Teams](workinginteams.md)
-- [Writing Professional Reflections](https://websense.github.io/SoftwareSkillsModules/professionalreflections.md)
-- [Minimum Viable Product: Making magic happen with clients](https://websense.github.io/SoftwareSkillsModules/minimumviableproduct.md)
-- [Group workflows in Github: from Development to Client](https://websense.github.io/SoftwareSkillsModules/groupworkflows.md)
-- [Managing Iterative Projects](https://websense.github.io/SoftwareSkillsModules/managingiterative.md)
-- [Professional Ethics: ACS code of conduct](https://websense.github.io/SoftwareSkillsModules/profethics.md)
-- [Cybersecurity, Risks and Responsibilities](https://websense.github.io/SoftwareSkillsModules/cybersecurity.md)
-- [Pitch your product: how to present your software ideas](https://websense.github.io/SoftwareSkillsModules/productpitch.md)
+- [Writing Professional Reflections](professionalreflections.md)
+- [Minimum Viable Product: Making magic happen with clients](minimumviableproduct.md)
+- [Group workflows in Github: from Development to Client](groupworkflows.md)
+- [Managing Iterative Projects](managingiterative.md)
+- [Professional Ethics: ACS code of conduct](profethics.md)
+- [Cybersecurity, Risks and Responsibilities](cybersecurity.md)
+- [Pitch your product: how to present your software ideas](productpitch.md)
 
