@@ -1,14 +1,15 @@
 # SoftwareSkillsModules
 Professional skills workshop modules for software students 
 
+* [Communication](docs/communication.md)
+* [Professional Reflections](docs/professionalreflections.md)
+* [User Experience](docs/ux.md)
 * [Working in teams](docs/workinginteams.md)
-* [Writing Professional Reflections](docs/professionalreflections.md)
 * [Minimum Viable Product: Making magic happen with clients](docs/minimumviableproduct.md)
-* [Group workflows with github: from developers to clients](docs/groupworkflows.md)
-* [Managing Iterative Projects](docs/managingiterative.md)
-* [Professional Ethics: ACS code of conduct](docs/professionalethics.md)
-* [Cybersecurity, Risks and Responsibilities](docs/cybersecurity.md)
-* [Pitch your product: how to present your software ideas](docs/productpitch.md)
+* [Group workflows with github](docs/groupworkflows.md)
+* [Software for Good and Professional Ethics: ACS code of conduct](docs/professionalethics.md)
+* [Cybersecurity and Risks: Threat Analysis](docs/cybersecurity.md)
+* [Pitch your software product](docs/productpitch.md)
 
 
 
