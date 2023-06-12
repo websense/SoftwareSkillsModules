@@ -1,7 +1,7 @@
-# Cybersecurity, Risks and Responsibilities
+# Designing for Security: Threat Analysis
 
 ## Module Overview
-Risks
+Threat analysis using STRIDE
 
 
 ### Related Unit/Course Learning Outcomes:
@@ -11,9 +11,7 @@ O3. justify the professional responsibility to produce reliable software and sys
 O4. assess the social impacts of IT projects; 
 
 ### Materials
-
-- [ACS Code of Ethics](https://www.acs.org.au/governance/rules-and-regulations.html)
-- [ACS Code of Ethics Case Studies](https://www.acs.org.au/content/dam/acs/elected-members/pab/EthicsCommittee/ACS%20Code%20of%20Professional%20Conduct%20Case%20Studies.pdf)
+- [Microsoft STRIDE training module](https://learn.microsoft.com/en-us/training/modules/tm-use-a-framework-to-identify-threats-and-find-ways-to-reduce-or-eliminate-risk/)
 - Computer Security Principles and Practice, William Stallings and Lawrie Brown, Chapter 1 Overview
 - [Software Engineering Body of Knowledge](https://www.computer.org/education/bodies-of-knowledge/software-engineering) (SWEBOK) Section 7-4
 
@@ -23,15 +21,14 @@ O4. assess the social impacts of IT projects;
 
 ### Class Agenda
 1. Computer Security: Confidentiality + Integrity + Availability
-2. Data Privacy: Risks 
-3. Professional Responsibility: ACS Code of Conduct and the Legal Responsibilities
-4. Risk Management and its application in your projects
+2. Threat Analysis: STRIDE model
+3. Applying STRIDE for your project
 
 
 ### Class Activity
  
-You will be given a case study scenario for a software project.
-Groups will assess the risks and responsibilities in this case.
+In this class you will review the preliminary threat analysis you performed for your  software project in Deliverable 1.
+Groups will assess the threats using the STRIDE model.
 Feedback and discussion in class.
 
 
@@ -42,3 +39,6 @@ This module is assessed in the take home test through case study scenarios.
 ## Review
 #### Lessons Learnt
 #### Links
+#### Lecturer
+Arran Stewart 2023
+
