@@ -8,20 +8,18 @@ In this module we will consider communication within your team, and with your cl
 O5. perform effectively as part of a multidisciplinary and multicultural team
 
 ### Materials
-
-
+[Workshop lecture notes](Workshop-1-Communication.pdf)
 
 ## Implementation
 
-### Class Agenda
-1. Presentation: Presentation on communication within teams and with clients.
-2. Activity: Draft a Team Contract of expectations for team behaviours
-3. Debrief: Feedback on student responses: common themes, key concerns
-4. Draft a professional email to your client
+### Class Agenda and Activities
+1. Culture: Teams and Diversity
+2. Meet your team: Ice breaker
+3. Communication: Listen, Speak, Reflect
+4. Teamwork Code of Conduct (brainstorm ideas for your team's CoC)
+5. Professional Communications: Emails
+6. Homework: things to do before next class
 
-### Class Activity
-
-See lecture slides
 
 ### Module Assignment
 
