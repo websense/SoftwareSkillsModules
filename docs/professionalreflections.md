@@ -17,6 +17,8 @@ O5. perform effectively as part of a multidisciplinary and multicultural team
 
 ## Implementation
 
+[Workshop notes on writing professional reflections (with examples for the marking rubrics)](ReflectiveWriting.pdf)
+
 ### Class Agenda
 1. Presentation: Overview of reflective writing components
 2. Activity: Draft a professional reflection based on a previous experience working in a group project
